@@ -1,0 +1,27 @@
+.howitworks{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+.card-trip{
+  padding: 20px;
+  text-align: center;
+  margin-top: 20px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 40%);
+  background-color: white;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.card-trip:hover h3{
+  color: blue;
+}
+
+.card-trip-text p,h3{
+  margin: 0px;
+}
+.card-trip-text{
+  margin: 15px 0;
+}

@@ -1,0 +1,21 @@
+.footer{
+  text-align: center;
+  background-color:rgb(60, 156, 235);
+  padding: 70px;
+}
+.center-ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+.center-ul li{
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 0px 10px;
+}
+.footer h1{
+  font-size: 15px;
+  font-family: 'Open Sans';
+  font-weight: lighter;
+  margin: 0;
+}
